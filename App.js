@@ -5,6 +5,7 @@ import MainNavigationContainer from './src/router/MainNavigationContainer';
 import store from './src/redux/store';
 
 //bu bir deneme
+//yeni deneme
 const App = () => {
   return (
     <Provider store={store}>
