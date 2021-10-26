@@ -5,7 +5,11 @@ import MainNavigationContainer from './src/router/MainNavigationContainer';
 import store from './src/redux/store';
 
 //bu bir deneme
-//yeni deneme
+//yeni deneme son son
+//yeni deneme son son
+//yeni deneme son son
+//yeni deneme son son
+//yeni deneme son son
 const App = () => {
   return (
     <Provider store={store}>
