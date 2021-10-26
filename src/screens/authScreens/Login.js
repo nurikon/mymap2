@@ -64,7 +64,7 @@ const Login = () => {
       <Text style={styles.socialbuttonTitle}> ile oturum açın</Text>
       <View style={styles.joinUsContainer}>
         <Text style={styles.newUserTitle}>
-          Üye değil misin?{" "}
+          Üye değil misin?{" "} deneme
           <Text onPress={() => navigate("SignUp")} style={styles.boldTitle}>
             {" "}
             Bize katıl.
